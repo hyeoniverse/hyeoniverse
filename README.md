@@ -20,17 +20,17 @@
   <tr>
     <td>🔭</td>
     <td><strong>Building</strong></td>
-    <td>Next.js 기반 개인 포트폴리오 & 블로그 플랫폼. 에디터, 인증, 디자인 시스템까지 직접 구현 중</td>
+    <td>Next.js · Supabase로 만드는 개인 포트폴리오 &amp; 블로그</td>
   </tr>
   <tr>
     <td>🌱</td>
     <td><strong>Learning</strong></td>
-    <td>디자인 토큰 시스템, OKLCH 색 공간, 웹 성능 최적화</td>
+    <td>디자인 시스템 · 웹 성능 최적화 · AI 서비스 통합</td>
   </tr>
   <tr>
     <td>💬</td>
     <td><strong>Ask me about</strong></td>
-    <td>React, Next.js, TypeScript, 인터랙션 애니메이션</td>
+    <td>React · Next.js · TypeScript · 인터랙션 애니메이션</td>
   </tr>
   <tr>
     <td>📍</td>
