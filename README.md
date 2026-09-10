@@ -6,11 +6,13 @@
 
 ## 👋 About Me
 
-**화면에서 느껴지는 경험을 가장 먼저 생각하는 프론트엔드 중심 풀스택 개발자, 김정현입니다.**
+**Frontend Focused Fullstack Developer, 김정현입니다.**
 
-React와 Next.js로 인터페이스를 만들고, 그 뒤에 필요한 API와 데이터 구조는 Node.js와 MySQL, Supabase로 직접 설계합니다. 프론트엔드에서 시작했지만 화면 하나를 제대로 완성하려면 데이터가 흐르는 길까지 알아야 한다고 느꼈고, 자연스럽게 백엔드까지 함께 다루게 되었습니다.
-
-요즘은 GSAP, Framer Motion, Three.js로 스크롤과 마우스에 반응하는 인터랙션을 실험하고 있고, AI API를 서비스 안에 자연스럽게 녹여내는 방법에도 관심이 많습니다. 성능과 접근성은 나중에 챙기는 옵션이 아니라 처음부터 설계에 넣어야 하는 기본이라고 생각합니다.
+- 🎨 **Frontend** &nbsp;React · Next.js · TypeScript로 인터랙티브한 UI 구축
+- ⚙️ **Backend** &nbsp;화면에 필요한 API와 데이터 구조는 Node.js · MySQL · Supabase로 직접 설계
+- ✨ **Interaction** &nbsp;GSAP · Framer Motion · Three.js로 스크롤과 마우스에 반응하는 경험 실험 중
+- 🤖 **AI** &nbsp;AI API를 서비스 안에 자연스럽게 녹여내는 방법에 관심
+- 🚀 **Principle** &nbsp;성능과 접근성은 옵션이 아니라 설계 단계의 기본
 
 <br>
 
@@ -33,7 +35,7 @@ React와 Next.js로 인터페이스를 만들고, 그 뒤에 필요한 API와 �
   <tr>
     <td>📍</td>
     <td><strong>Based in</strong></td>
-    <td>Seoul, South Korea</td>
+    <td>Seoul, South Korea 🇰🇷</td>
   </tr>
 </table>
 
