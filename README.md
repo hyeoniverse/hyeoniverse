@@ -1,54 +1,52 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:724cf9,20:754ef9,100:c77bf9&height=220&section=header&text=Hyeoniverse&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Focused%20Fullstack%20Developer&descAlign=50&descAlignY=70" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:724cf9,50:9b6bfb,100:c77bf9&height=180&text=Hyeoniverse&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Focused%20Fullstack%20Developer&descSize=18&descAlignY=68&animation=fadeIn" width="100%" alt="Hyeoniverse">
 </div>
-
-## 👋 About Me
-
-안녕하세요, 프론트엔드 중심의 풀스택 개발자 **김정현**입니다. Seoul, South Korea 🇰🇷
-
-- **React / Next.js / TypeScript**로 인터랙티브하고 성능 좋은 웹 애플리케이션을 만듭니다.
-- Node.js와 Express로 필요한 API를 직접 설계하고, MySQL / Supabase로 데이터를 다룹니다.
-- 접근성과 반응형을 기본으로 생각하며, AI API를 프로젝트에 통합하는 일에 관심이 많습니다.
 
 <br>
 
-## 🚀 Featured Project
+## 👋 About Me
 
-### [Arc — 개인 포트폴리오 & 블로그 플랫폼](https://github.com/hyeoniverse/web-portfolio-oval)
+**화면에서 느껴지는 경험을 가장 먼저 생각하는 프론트엔드 중심 풀스택 개발자, 김정현입니다.**
 
-<a href="https://github.com/hyeoniverse/web-portfolio-oval">
-  <img src="./assets/arc-home-dark.png" alt="Arc 홈 화면" width="100%">
-</a>
+React와 Next.js로 인터페이스를 만들고, 그 뒤에 필요한 API와 데이터 구조는 Node.js와 MySQL, Supabase로 직접 설계합니다. 프론트엔드에서 시작했지만 화면 하나를 제대로 완성하려면 데이터가 흐르는 길까지 알아야 한다고 느꼈고, 자연스럽게 백엔드까지 함께 다루게 되었습니다.
 
-Next.js 16 · React 19 · TypeScript · Supabase · GSAP · Framer Motion · Three.js
+요즘은 GSAP, Framer Motion, Three.js로 스크롤과 마우스에 반응하는 인터랙션을 실험하고 있고, AI API를 서비스 안에 자연스럽게 녹여내는 방법에도 관심이 많습니다. 성능과 접근성은 나중에 챙기는 옵션이 아니라 처음부터 설계에 넣어야 하는 기본이라고 생각합니다.
 
-- **인터랙션**: 무한 스크롤 루프, 마우스 패럴랙스, Three.js 3D 오브젝트, 방향별 Scroll Cascade
-- **Works & Blog**: 6종 레이아웃 전환, SSR + ISR, 시리즈, 게스트 댓글 / giscus 전환
-- **Admin**: Plate.js 기반 WYSIWYG 에디터, 마크다운 동기화, AI 번역/요약, 리비전 히스토리, GitHub OAuth + 역할 기반 멤버 관리
-- **품질**: Lighthouse 98 (LCP 1.9s), RLS + CSRF 가드 등 다층 보안, OKLCH 기반 3-tier 디자인 토큰 시스템
+<br>
 
-<div align="center">
-  <a href="https://github.com/hyeoniverse?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-724CF9?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><strong>Building</strong></td>
+    <td>Next.js 기반 개인 포트폴리오 & 블로그 플랫폼. 에디터, 인증, 디자인 시스템까지 직접 구현 중</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><strong>Learning</strong></td>
+    <td>디자인 토큰 시스템, OKLCH 색 공간, 웹 성능 최적화</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><strong>Ask me about</strong></td>
+    <td>React, Next.js, TypeScript, 인터랙션 애니메이션</td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td><strong>Based in</strong></td>
+    <td>Seoul, South Korea</td>
+  </tr>
+</table>
 
 <br>
 
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand">
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mysql,supabase,firebase&perline=10" alt="React, Next.js, TypeScript, JavaScript, TailwindCSS, Node.js, Express, MySQL, Supabase, Firebase">
+  </a>
+  <br><br>
+  <sub>React · Next.js · TypeScript · TailwindCSS · Zustand &nbsp;|&nbsp; Node.js · Express · MySQL · Supabase</sub>
 </div>
 
 <br>
@@ -56,8 +54,14 @@ Next.js 16 · React 19 · TypeScript · Supabase · GSAP · Framer Motion · Thr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-one-alpha.vercel.app/api?username=hyeoniverse&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,724cf9,b196fb,b370f9&include_all_commits=true&count_private=true&custom_title=Hyeoniverse's%20GitHub%20Stats&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=hyeoniverse&layout=compact&title_color=724cf9&text_color=724cf9&icon_color=724cf9&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&langs_count=6" width="45%" alt="Top Languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-alpha.vercel.app/api?username=hyeoniverse&show_icons=true&hide_border=true&bg_color=00000000&title_color=b196fb&text_color=c9d1d9&icon_color=b196fb&include_all_commits=true&count_private=true&rank_icon=github">
+    <img src="https://github-readme-stats-one-alpha.vercel.app/api?username=hyeoniverse&show_icons=true&hide_border=true&bg_color=00000000&title_color=724cf9&text_color=24292f&icon_color=724cf9&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=hyeoniverse&layout=compact&hide_border=true&bg_color=00000000&title_color=b196fb&text_color=c9d1d9&include_all_commits=true&count_private=true&langs_count=6">
+    <img src="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=hyeoniverse&layout=compact&hide_border=true&bg_color=00000000&title_color=724cf9&text_color=24292f&include_all_commits=true&count_private=true&langs_count=6" width="41%" alt="Top Languages">
+  </picture>
 </div>
 
 <br>
@@ -76,7 +80,8 @@ Next.js 16 · React 19 · TypeScript · Supabase · GSAP · Framer Motion · Thr
   </a>
 </div>
 
-<!-- FOOTER -->
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:724cf9,20:754ef9,100:c77bf9&height=120&section=footer" width="100%">
+  <sub>Thanks for stopping by ✨</sub>
 </div>
