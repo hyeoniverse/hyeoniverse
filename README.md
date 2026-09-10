@@ -81,7 +81,7 @@ const hyeoniverse = {
   <table>
     <tr>
       <td align="center" width="33%">
-        <h3>🎨 프론트엔드 전문성</h3>
+        <h3>🎨 프론트엔드 역량</h3>
         <ul align="left">
           <li><strong>React & Next.js</strong> - SSR/SSG 애플리케이션</li>
           <li><strong>TypeScript</strong> - 타입 안전 개발</li>
