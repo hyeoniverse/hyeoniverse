@@ -55,13 +55,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-alpha.vercel.app/api?username=hyeoniverse&show_icons=true&hide_border=true&bg_color=00000000&title_color=b196fb&text_color=c9d1d9&icon_color=b196fb&include_all_commits=true&count_private=true&rank_icon=github">
-    <img src="https://github-readme-stats-one-alpha.vercel.app/api?username=hyeoniverse&show_icons=true&hide_border=true&bg_color=00000000&title_color=724cf9&text_color=24292f&icon_color=724cf9&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img src="./profile/stats-light.svg" width="49%" alt="GitHub Stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=hyeoniverse&layout=compact&hide_border=true&bg_color=00000000&title_color=b196fb&text_color=c9d1d9&include_all_commits=true&count_private=true&langs_count=6">
-    <img src="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=hyeoniverse&layout=compact&hide_border=true&bg_color=00000000&title_color=724cf9&text_color=24292f&include_all_commits=true&count_private=true&langs_count=6" width="41%" alt="Top Languages">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img src="./profile/top-langs-light.svg" width="41%" alt="Top Languages">
   </picture>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=hyeoniverse&color=724cf9&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
 <br>
