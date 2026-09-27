@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:724cf9,50:9b6bfb,100:c77bf9&height=180&text=Hyeoniverse&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Focused%20Fullstack%20Developer&descSize=18&descAlignY=68&animation=fadeIn" width="100%" alt="Hyeoniverse">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:A8004E,50:D40063,100:F74D96&height=180&text=Hyeoniverse&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Focused%20Fullstack%20Developer&descSize=18&descAlignY=68&animation=fadeIn" width="100%" alt="Hyeoniverse">
 </div>
 
 <br>
@@ -63,7 +63,7 @@
     <img src="./profile/top-langs-light.svg" width="41%" alt="Top Languages">
   </picture>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=hyeoniverse&color=724cf9&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=hyeoniverse&color=D40063&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
 <br>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>&nbsp;
   <a href="https://www.hyeoniverse.com/">
-    <img src="https://img.shields.io/badge/Portfolio-724CF9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-D40063?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>&nbsp;
   <a href="https://solved.ac/hyeoniverse">
     <img src="https://img.shields.io/badge/solved.ac-17CE3A?style=for-the-badge&logo=baekjoon&logoColor=white" alt="solved.ac">

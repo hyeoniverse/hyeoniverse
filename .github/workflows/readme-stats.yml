@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: ${{ env.STATS_OPTS }}&title_color=724cf9&text_color=24292f&icon_color=724cf9
+          options: ${{ env.STATS_OPTS }}&title_color=D40063&text_color=3A3640&icon_color=D40063
           path: profile/stats-light.svg
           token: ${{ env.TOKEN }}
 
@@ -36,7 +36,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: ${{ env.STATS_OPTS }}&title_color=b196fb&text_color=c9d1d9&icon_color=b196fb
+          options: ${{ env.STATS_OPTS }}&title_color=F74D96&text_color=C9C4CF&icon_color=F74D96
           path: profile/stats-dark.svg
           token: ${{ env.TOKEN }}
 
@@ -44,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: ${{ env.LANGS_OPTS }}&title_color=724cf9&text_color=24292f
+          options: ${{ env.LANGS_OPTS }}&title_color=D40063&text_color=3A3640
           path: profile/top-langs-light.svg
           token: ${{ env.TOKEN }}
 
@@ -52,7 +52,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: ${{ env.LANGS_OPTS }}&title_color=b196fb&text_color=c9d1d9
+          options: ${{ env.LANGS_OPTS }}&title_color=F74D96&text_color=C9C4CF
           path: profile/top-langs-dark.svg
           token: ${{ env.TOKEN }}
 
