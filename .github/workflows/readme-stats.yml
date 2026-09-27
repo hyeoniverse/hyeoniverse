@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/readme-stats.yml
+      - .github/scripts/recolor-langs.py
 
 jobs:
   build:
@@ -55,6 +56,9 @@ jobs:
           options: ${{ env.LANGS_OPTS }}&title_color=F74D96&text_color=C9C4CF
           path: profile/top-langs-dark.svg
           token: ${{ env.TOKEN }}
+
+      - name: Recolor language bars
+        run: python3 .github/scripts/recolor-langs.py profile/top-langs-light.svg light profile/top-langs-dark.svg dark
 
       - name: Commit cards
         run: |
