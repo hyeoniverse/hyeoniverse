@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">KIMJEONGHYEON&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 4372, Total PRs: 1032, Total Issues: 480, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 4435, Total PRs: 1066, Total Issues: 487, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 121.70274485359921;
+        stroke-dashoffset: 121.61628649985693;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >1k</text>
+      >1.1k</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >480</text>
+      >487</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
