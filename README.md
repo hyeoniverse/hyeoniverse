@@ -21,6 +21,11 @@
     <td>Next.js · Supabase로 만드는 개인 포트폴리오 &amp; 블로그</td>
   </tr>
   <tr>
+    <td>🖥</td>
+    <td><strong>Showcase</strong></td>
+    <td><a href="https://macfolio.hyeoniverse.com">Macfolio</a> — macOS 데스크톱을 웹으로 구현한 포트폴리오</td>
+  </tr>
+  <tr>
     <td>🌱</td>
     <td><strong>Learning</strong></td>
     <td>디자인 시스템 · 웹 성능 최적화 · AI 서비스 통합</td>
@@ -63,7 +68,7 @@
     <img src="./profile/top-langs-light.svg" width="41%" alt="Top Languages">
   </picture>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=hyeoniverse&color=D40063&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://hits.sh/github.com/hyeoniverse.svg?style=flat-square&label=Profile%20Views&color=D40063" alt="Profile Views">
 </div>
 
 <br>
@@ -75,7 +80,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>&nbsp;
   <a href="https://www.hyeoniverse.com/">
-    <img src="https://img.shields.io/badge/Portfolio-D40063?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-D40063?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAybDIuOTQgNi4yNiA2Ljg2LjgzLTUuMDYgNC43MiAxLjMyIDYuNzlMMTIgMTcuMjcgNS45NCAyMC42bDEuMzItNi43OUwyLjIgOS4wOWw2Ljg2LS44M3oiLz48L3N2Zz4%3D" alt="Portfolio">
   </a>&nbsp;
   <a href="https://solved.ac/hyeoniverse">
     <img src="https://img.shields.io/badge/solved.ac-17CE3A?style=for-the-badge&logo=baekjoon&logoColor=white" alt="solved.ac">
